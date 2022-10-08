@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
-    hey there
+    Hello
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
   </h1>
   <div id="badges">
