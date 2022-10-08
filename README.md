@@ -4,8 +4,8 @@
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30px"/>
   </h1>
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/Telegram-blue" alt="LinkedIn Badge"/>
+    <a href="https://t.me/ost_jupiter">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
